@@ -1,0 +1,2 @@
+{"level":"info","message":"Server running on port 5000","service":"petcare-api","timestamp":"2025-09-13T07:54:51.587Z"}
+{"level":"info","message":"MongoDB Connected: ac-xce5k4c-shard-00-00.pjaeyfp.mongodb.net","service":"petcare-api","timestamp":"2025-09-13T07:54:55.952Z"}
